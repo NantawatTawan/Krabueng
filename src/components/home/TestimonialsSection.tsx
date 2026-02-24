@@ -36,7 +36,7 @@ export default function TestimonialsSection() {
 
         {/* Testimonials Grid */}
         <div className="grid md:grid-cols-3 gap-6">
-          {testimonials.slice(0, 3).map((testimonial, index) => {
+          {testimonials.slice(0, 3).map((testimonial) => {
             const content = locale === 'th' ? testimonial.contentTh : testimonial.contentEn;
             const role = locale === 'th' ? testimonial.roleTh : testimonial.roleEn;
             const company = locale === 'th' ? testimonial.companyTh : testimonial.companyEn;
