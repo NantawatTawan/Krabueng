@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "patterns": "Patterns",
+    "colors": "Colors",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Lalabow",
+    "subtitle": "High-quality stamped concrete for your projects",
+    "cta": "View Our Projects"
+  },
+  "about": {
+    "title": "About Lalabow",
+    "description": "Lalabow is a leading provider of high-quality stamped concrete design and installation services throughout Thailand. With over 10 years of experience, we create durable and beautiful stamped concrete surfaces for residential, commercial, and industrial projects.",
+    "vision": "Our Vision",
+    "visionText": "To be Thailand's leading stamped concrete company, known for exceptional quality and innovative designs.",
+    "mission": "Our Mission",
+    "missionText": "To deliver beautiful, durable, and functional stamped concrete solutions that enhance our clients' properties and vision."
+  },
+  "projects": {
+    "title": "Our Projects",
+    "subtitle": "Showcase of our stamped concrete excellence",
+    "viewMore": "View Details",
+    "area": "Area",
+    "year": "Year",
+    "type": "Type",
+    "location": "Location",
+    "pattern": "Pattern",
+    "highlights": "Highlights",
+    "private": "Private Project",
+    "government": "Government Project"
+  },
+  "patterns": {
+    "title": "Stamped Concrete Patterns",
+    "subtitle": "Choose a pattern that matches your style",
+    "category": "Category",
+    "price": "Price Range",
+    "popular": "Popular Pattern",
+    "details": "Details"
+  },
+  "colors": {
+    "title": "Stamped Concrete Colors",
+    "subtitle": "Select colors suitable for your project"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive services for your project",
+    "learnMore": "Learn More"
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "What our clients say about us",
+    "rating": "Rating"
+  },
+  "clients": {
+    "title": "Our Clients",
+    "subtitle": "Companies and organizations that trust Lalabow"
+  },
+  "footer": {
+    "company": "Company",
+    "about": "About",
+    "contact": "Contact",
+    "services": "Services",
+    "projects": "Projects",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "line": "LINE",
+    "facebook": "Facebook",
+    "rights": "Rights",
+    "allRightsReserved": "All Rights Reserved 2024"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're ready to answer your questions",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Submit"
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Business Hours",
+      "line": "LINE",
+      "facebook": "Facebook"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "back": "Back",
+    "next": "Next",
+    "prev": "Previous",
+    "close": "Close",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort"
+  }
+}
