@@ -71,14 +71,14 @@ export function Navbar() {
                 ? 'bg-stone-900 text-white'
                 : 'bg-white text-stone-900'
             )}>
-              LB
+              SC
 </div>
             <div className="flex flex-col">
               <span className={cn(
                 'text-lg font-bold leading-tight transition-colors',
                 scrolled || !isHome ? 'text-stone-900' : 'text-white'
               )}>
-                Lalabow
+                SunnyConcrete
               </span>
               <span className={cn(
                 'text-[10px] font-medium tracking-widest uppercase leading-tight transition-colors',

@@ -51,10 +51,10 @@ export default function FounderSection() {
               <div className="absolute inset-0 flex items-center justify-center">
                 <div className="text-center">
                   <div className="w-40 h-40 mx-auto rounded-full bg-gradient-to-br from-brand-400 to-brand-600 flex items-center justify-center shadow-2xl mb-6">
-                    <span className="text-5xl font-bold text-white">โก้</span>
+                    <span className="text-5xl font-bold text-white">ตะวัน</span>
                   </div>
                   <p className="text-stone-500 text-sm font-medium">
-                    {locale === 'th' ? 'ผู้ก่อตั้ง Lalabow' : 'Founder of Lalabow'}
+                    {locale === 'th' ? 'ผู้ก่อตั้ง SunnyConcrete' : 'Founder of SunnyConcrete'}
                   </p>
                 </div>
               </div>
@@ -95,8 +95,8 @@ export default function FounderSection() {
             <div className="space-y-4 mb-8">
               <p className="text-stone-600 text-lg leading-relaxed">
                 {locale === 'th'
-                  ? 'คุณโก้ เจริญศักดิ์ ผู้ก่อตั้งและผู้บริหาร Lalabow ด้วยประสบการณ์กว่า 10 ปีในอุตสาหกรรมคอนกรีตพิมพ์ลาย ได้นำความเชี่ยวชาญมาสร้างสรรค์ผลงานคุณภาพสูงให้แก่ลูกค้าทั่วประเทศไทย'
-                  : 'Khun Ko Charoensak, founder and director of Lalabow, brings over 10 years of expertise in the stamped concrete industry to deliver premium quality work for clients throughout Thailand.'}
+                  ? 'คุณตะวัน ผู้ก่อตั้งและผู้บริหาร SunnyConcrete ด้วยประสบการณ์กว่า 10 ปีในอุตสาหกรรมคอนกรีตพิมพ์ลาย ได้นำความเชี่ยวชาญมาสร้างสรรค์ผลงานคุณภาพสูงให้แก่ลูกค้าทั่วประเทศไทย'
+                  : 'Khun Tawan, founder and director of SunnyConcrete, brings over 10 years of expertise in the stamped concrete industry to deliver premium quality work for clients throughout Thailand.'}
               </p>
               <p className="text-stone-600 leading-relaxed">
                 {locale === 'th'

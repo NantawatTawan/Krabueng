@@ -114,7 +114,7 @@ export default function ContactPage() {
                 labelEn: 'Facebook',
                 valueTh: companyInfo.facebook,
                 valueEn: companyInfo.facebook,
-                href: 'https://facebook.com/lalabow',
+                href: 'https://facebook.com/sunnyconcrete',
                 color: 'bg-[#1877F2] text-white',
               },
             ].map((item, i) => (

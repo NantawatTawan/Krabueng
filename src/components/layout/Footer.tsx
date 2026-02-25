@@ -7,14 +7,14 @@ import { useLanguage } from '@/i18n/LanguageContext';
 
 const footerContent = {
   th: {
-    companyName: 'Lalabow (ไทย) จำกัด',
+    companyName: 'SunnyConcrete (ไทย) จำกัด',
     tagline: 'ผู้เชี่ยวชาญคอนกรีตพิมพ์ลายระดับพรีเมียม',
     address: '123 ถ.สุขุมวิท แขวงไทรม้า อ.เมืองนนทบุรี จ.นนทบุรี 11000',
-    phone1: '080-795-3665',
-    email: 'info@lalabow.co.th',
-    lineId: '@lalabow',
-    facebookName: 'Lalabow Thailand',
-    copyright: '© 2025 Lalabow. สงวนลิขสิทธิ์ทั้งหมด',
+    phone1: '095-683-5069',
+    email: 'tawannantawat@lighthard.com',
+    lineId: '@sunnyconcrete',
+    facebookName: 'SunnyConcrete Thailand',
+    copyright: '© 2025 SunnyConcrete. สงวนลิขสิทธิ์ทั้งหมด',
     quickLinks: 'ลิงก์ด่วน',
     contact: 'ติดต่อเรา',
     home: 'หน้าหลัก',
@@ -23,14 +23,14 @@ const footerContent = {
     services: 'บริการ',
   },
   en: {
-    companyName: 'Lalabow (Thailand) Co., Ltd.',
+    companyName: 'SunnyConcrete (Thailand) Co., Ltd.',
     tagline: 'Premium Stamped Concrete Specialist',
     address: '123 Sukhumvit Rd, Thai Mueang, Muang District, Nonthaburi 11000',
-    phone1: '080-795-3665',
-    email: 'info@lalabow.co.th',
-    lineId: '@lalabow',
-    facebookName: 'Lalabow Thailand',
-    copyright: '© 2025 Lalabow. All rights reserved.',
+    phone1: '095-683-5069',
+    email: 'tawannantawat@lighthard.com',
+    lineId: '@sunnyconcrete',
+    facebookName: 'SunnyConcrete Thailand',
+    copyright: '© 2025 SunnyConcrete. All rights reserved.',
     quickLinks: 'Quick Links',
     contact: 'Contact',
     home: 'Home',
@@ -53,10 +53,10 @@ export function Footer() {
           <div className="lg:col-span-2 space-y-6">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-lg bg-white text-stone-900 flex items-center justify-center font-black text-lg">
-                LB
+                SC
   </div>
               <div>
-                <p className="font-bold text-lg">Lalabow</p>
+                <p className="font-bold text-lg">SunnyConcrete</p>
                 <p className="text-stone-500 text-xs tracking-wider uppercase">Concrete Artisan</p>
               </div>
             </div>
@@ -65,7 +65,7 @@ export function Footer() {
             </p>
             <div className="flex gap-3">
               <a
-                href="https://facebook.com/lalabow"
+                href="https://facebook.com/sunnyconcrete"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-lg border border-white/10 flex items-center justify-center text-stone-500 hover:text-white hover:border-white/30 transition-colors"
@@ -73,7 +73,7 @@ export function Footer() {
                 <Facebook size={18} />
               </a>
               <a
-                href="https://line.me/R/ti/p/@lalabow"
+                href="https://line.me/R/ti/p/@sunnyconcrete"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-lg border border-white/10 flex items-center justify-center text-stone-500 hover:text-white hover:border-white/30 transition-colors"
@@ -154,7 +154,7 @@ export function Footer() {
         <div className="py-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-stone-600 text-sm">{content.copyright}</p>
           <p className="text-stone-700 text-xs">
-            Design & Development by Lalabow Team
+            Design & Development by SunnyConcrete Team
           </p>
         </div>
       </div>
